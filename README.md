@@ -35,15 +35,4 @@ As seguintes ferramentas foram auxiliadoras no desenvolvimento do projeto:
 * **World** Desenvolvimento e teste dos pseudocódigos.
 * **GitHub** Postagem do trabalho.
 
----
 
-## 📂 Estrutura de Arquivos
-
-```text
-├── Exercício 01/
-│   ├── fluxograma_01.png
-│   └── algoritmo_01.alg
-├── Exercício 02/
-│   ├── fluxograma_02.png
-│   └── algoritmo_02.alg
-└── README.md
